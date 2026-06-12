@@ -1,0 +1,10 @@
+#images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.img-block {
+    margin: 5px;
+    border-radius: 5px;
+}
