@@ -1,0 +1,7 @@
+System: Arch Linux
+
+Środowiska: Visual Studio Code
+
+Języki, frameworki, biblioteki:
+- Vite, JavaScript, Boostrap
+- Python
