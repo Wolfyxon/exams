@@ -1,1 +1,10 @@
+.vscode/
+.idea/
+
 node_modules/
+__pycache__/
+.gradle/
+
+*.exe
+*.zip
+*.apk
